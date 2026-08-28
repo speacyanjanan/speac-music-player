@@ -1,0 +1,10 @@
+{
+  "name": "Speac Music Player",
+  "short_name": "Speac Music",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#111111",
+  "theme_color": "#111111",
+  "description": "Speac Music Player",
+  "icons": []
+}
